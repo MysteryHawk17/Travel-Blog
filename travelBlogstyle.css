@@ -11,11 +11,7 @@
     margin: 0;
     box-sizing: border-box;
 }
-nav
-{
-    /* margin-top: 15px; */
-   
-}
+
 nav ul
 {
     display: flex;
@@ -71,7 +67,7 @@ header h3
 font-family: Lobster;
 font-family: Open Sans;
 padding: 2px 15px;
-
+padding-bottom: 15px;
 }
 .item9
 {

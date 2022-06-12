@@ -1,0 +1,15 @@
+Make the nav bar and the footer responsive
+Abhi isiliye kaam kr raha kyonki bahut items nhi hai warna dikkat karega 
+add the links to the about section 
+make the Home Page with a travel photos only 
+blog will be like this 
+and after that we need to check for the home Page
+Home-
+    photos and spin wala
+Blog-
+    this Page
+    add read more to each where we will explain it properly
+About-
+    About the developer
+Contact-
+    All social media profile added
